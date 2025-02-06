@@ -1,4 +1,4 @@
-# Simple To-Do List Application
+# Simple To-Do List Application for practice
 
 def display_tasks(tasks):
     """Display all tasks in the to-do list."""
